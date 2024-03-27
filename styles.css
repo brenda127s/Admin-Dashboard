@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+.sidebar {
+    border: 1px solid blue;
+}
+
+.header {
+    border: 1px solid red;
+}
+
+.main-content {
+    border: 1px solid green;
+}
